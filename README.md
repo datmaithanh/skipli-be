@@ -78,3 +78,48 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <strong>Built with ❤️ using Node.js and Gemini AI</strong>
 </div>
+
+---Describe for HR--
+
+***REST API***
+"I use the Postman app to test APIs."
+
+-1. (POST) CreateNewAccessCode: 
+"I am proving that I used the SMS service to send the OTP to the user."
+![image](https://github.com/user-attachments/assets/ba0eb5e3-d995-40da-a00b-726a1f2be8ae)
+![image](https://github.com/user-attachments/assets/c433e5a0-2428-4c37-bfcc-4444165daef0)
+"Here test with the Postman app"
+![image](https://github.com/user-attachments/assets/39743aef-11be-454c-b49d-4ec6e8f3384b)
+
+-2. (POST) ValidateAccessCode:
+"Here test with the Postman app"
+![image](https://github.com/user-attachments/assets/8fa5e45d-5976-4269-98c9-756da3120649)
+
+-3. (POST) GeneratePostCaptions:
+"Here test with the Postman app"
+![image](https://github.com/user-attachments/assets/59edf5b8-a87e-42e0-b4d2-cb20944606f2)
+
+-4. (POST) GetPostIdeas:
+"Here test with the Postman app"
+![image](https://github.com/user-attachments/assets/1aae3d9a-cb1d-462c-87f7-5c767d6429a7)
+
+-5. (POST) CreateCaptionsFromIdeas:
+"Here test with the Postman app"
+![image](https://github.com/user-attachments/assets/09f17497-ae49-42ae-9d7f-6d9fa1403ac9)
+
+-6. (POST) SaveGeneratedContent:
+"Here test with the Postman app"
+![image](https://github.com/user-attachments/assets/7548bb80-16e1-47bc-ac18-1050fe8980e1)
+
+-7. (GET) GetUserGeneratedContents:
+"Here test with the Postman app"
+![image](https://github.com/user-attachments/assets/2395c644-db06-45db-94e5-e90f7e0756f7)
+
+-8. (POST) UnSaveContent:
+"Here test with the Postman app"
+![image](https://github.com/user-attachments/assets/106e1c94-457e-4cd2-962f-2c1ddcdc209c)
+
+
+
+
+
